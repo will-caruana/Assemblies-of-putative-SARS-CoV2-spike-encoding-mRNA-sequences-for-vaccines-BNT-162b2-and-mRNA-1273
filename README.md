@@ -45,9 +45,10 @@ W	ATG
 X	AGT
 Y	GAC
 Z	GCA
-AGC
+  AGC
 .	ACG
 
+The spike encoding region is after the signal peptide which is "TTCGTGTTCCTGGTGCTGCTGCCTCTGGTGTCCAGCCAGTGTGTG" The stop codon is "TGATGA"
 
 
 ProtoAcknowledgements: Thanks to DNA writer https://earthsciweb.org/js/bio/dna-writer/
